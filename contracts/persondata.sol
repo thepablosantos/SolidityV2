@@ -8,4 +8,4 @@ string public name = 'Pablo';
 uint private age = 31;
 bool internal brazilian = true;
 
-} 
+} //
